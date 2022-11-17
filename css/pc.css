@@ -338,6 +338,10 @@ a:hover {
 
   /* body */
 
+  .howto {
+    padding-top: 20px;
+  }
+
   .main {
     background-image: url("../imgs/Pc-Comp.png");
     background-size: cover;
